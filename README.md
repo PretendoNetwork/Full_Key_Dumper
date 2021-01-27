@@ -11,3 +11,9 @@ The dumper will output the keys on the udp logger (udplogserver) and write to th
 - ``otp.bin`` for the OTP
 - ``boss_keys.bin`` for the BOSS keys
 - ``idbe_keys.bin`` for the IDBE keys
+
+# Building
+
+
+- Get devkitPro/devkitPPC
+- Run ``make`` (no libs required)
