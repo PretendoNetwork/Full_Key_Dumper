@@ -17,3 +17,7 @@ The dumper will output the keys on the udp logger (udplogserver) and write to th
 
 - Get devkitPro/devkitPPC
 - Run ``make`` (no libs required)
+
+# Credits
+
+The Pretendo Team, and most importantly QuarkTheAwesome.
