@@ -1,6 +1,9 @@
 # Full_Key_Dumper
 WiiU dumper for the OTP, BOSS keys and IDBE keys
 
+> [!WARNING]  
+> Outdated. See https://github.com/PretendoNetwork/BetterKeyDumper instead.
+
 # Usage
 - Run the dumper from the HBL
 - Enjoy
